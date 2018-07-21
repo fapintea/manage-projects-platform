@@ -29,4 +29,4 @@
 
 ### License
 
-Please see the [license file]()
+Please see the [license file](https://github.com/fapintea/manage-projects-platform/blob/master/LICENSE.md)
